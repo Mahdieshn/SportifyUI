@@ -25,22 +25,25 @@ This project was developed as part of a university course to demonstrate front-e
 
 ## 📁 Project Structure
 
+
+```text
 SportifyUI/
 ├── index.html
 ├── laliga.html
 ├── pl.html
 ├── css/
-│ ├── bootstrap.css
-│ ├── bootstrap-rtl.css
-│ └── style.css
+│   ├── bootstrap.css
+│   ├── bootstrap-rtl.css
+│   └── style.css
 ├── js/
-│ ├── jquery.min.js
-│ └── bootstrap.min.js
+│   ├── jquery.min.js
+│   └── bootstrap.min.js
 ├── fonts/
-│ └── (IranSans, Aviny, Glyphicons)
+│   ├── Aviny.*
+│   ├── IranSans.*
+│   └── Glyphicons.*
 └── img/
-└── (team logos, sample images)
-
+    └── (team logos, sample images)
 
 ---
 
