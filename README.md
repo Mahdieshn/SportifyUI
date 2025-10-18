@@ -44,7 +44,7 @@ SportifyUI/
 │   └── Glyphicons.*
 └── img/
     └── (team logos, sample images)
-
+```
 ---
 
 ## 📚 About
